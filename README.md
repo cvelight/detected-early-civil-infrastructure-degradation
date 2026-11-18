@@ -17,8 +17,19 @@ COURSE WORK PDF
 
 
 The Structural Vibration Health Tracker is a robotics project designed to monitor vibrations in buildings, bridges, and other civil infrastructure.
+
 The main idea is to use vibration sensors to detect unusual movements or vibrations in structures. These changes may indicate possible damage or structural weaknesses.
+
 The purpose of this project is to help identify potential infrastructure problems at an early stage, improve safety, and reduce the risk of serious structural failures.
+
 The system collects vibration data using sensors and processes the information through a microcontroller (Arduino). If unusual vibration levels are detected, the system can trigger an alert using LEDs or a buzzer.
+
 The project demonstrates how robotics and sensor technology can be used for structural health monitoring and early warning systems.
+
+<img width="1413" height="1000" alt="IMAGE 2026-11-18 15:49:25" src="https://github.com/user-attachments/assets/93b8def1-7d5a-4183-b973-95e1f2745855" />
+
+
+
+
+
 
