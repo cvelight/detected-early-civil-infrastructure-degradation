@@ -14,8 +14,7 @@ Below is a detailed explanation of each component and why it is included in the 
 
 The main component is the Arduino Uno R3, which acts as the brain of the system. It receives signals from the vibration sensor, processes the data, and controls the other components according to the programmed instructions.
 
-<img width="1024" height="1024" alt="IMAGE 2026-11-21 20:09:29" src="https://github.com/user-attachments/assets/12d47a4e-6cbb-4700-b8a8-d32be784ede2" />
-
+<img width="1024" height="388" alt="IMAGE 2026-11-21 20:15:23" src="https://github.com/user-attachments/assets/f52f080e-c1c5-4725-88eb-53cd5c00fa45" />
 
 The SW-420 vibration sensor is responsible for detecting mechanical vibrations and movements. It sends digital signals to the Arduino whenever vibration is detected. The Arduino analyzes the number of vibration events within a specific period and compares the results with a predefined threshold. This allows the system to distinguish between normal and potentially abnormal vibration activity.
 
